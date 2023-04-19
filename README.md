@@ -25,8 +25,8 @@ We try to ensure that animals receive the proper care and attention they need. T
 ## Screenshots
 
 
-<img align="center" src="https://github.com/BadshahYadav/HelpingNGO/Img/Screen1.png" width="400" >
- <img align="center" src="https://github.com/BadshahYadav/HelpingNGO/Img/Screen2.png" width="400" >
+<img align="center" src="https://github.com/BadshahYadav/HelpingNGO/blob/master/Img/Screen1.png" width="1200" >
+ <img align="center" src="https://github.com/BadshahYadav/HelpingNGO/blob/master/Img/Screen2.png" width="1200" >
 
 ## Authors
 
